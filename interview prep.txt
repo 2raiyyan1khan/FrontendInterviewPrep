@@ -1,0 +1,76 @@
+1 practice machine cosing round projects using Js and React
+	. Rating 
+		 (https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+	. Select input
+	. Multistep Form
+	. Slider (also with autoplay)
+	. Comment system
+	. Drag and drop todo app
+	. Calculator
+	. Tip Calculator
+		 (https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+	. Login form with validation
+	. Tic tac to
+	. Result Summery
+		 (https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+	. Connect Four Game
+		 (https://www.frontendmentor.io/challenges/connect-four-game-6G8QVH923s)
+	. Password Generator
+		 (https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh)
+	. Memory Game
+		 (https://www.frontendmentor.io/challenges/memory-game-vse4WFPvM)
+	. Joblisting with filtering
+		 (https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
+	. REST Countries API with color theme switcher
+		 (https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-					switcher-5cacc469fec04111f7b848ca)
+	. Product Feedback app
+		 (https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6)
+	. ......
+
+2 learn DSA and solve atleat 50 questions for each from leetcode
+	. Arrays
+	. objects
+	. String
+	. Linkedlist
+	. Queue
+	. Stack
+	. Trees
+	. Sortings
+	. ......
+3 Relearn Javascript Concepts
+ (javascript.info (Provides Tasks for each topics), namastejavascript)
+	. Event loop
+	. Pllyfils of (map,filter,find,reduce,call,apply,bind)
+	. Hoisting
+	. Class
+	. prototype
+	. Closures
+	. First class function
+	. Call Backs
+	. Currying
+	. setTimeOut
+	. setInterval
+	. Async Await Promisses
+	. Error handling
+	. Local storage, session storage
+	. ES6, ES7, ES8
+	. Dom manipulation
+	. Event bubbling Event capturing
+	. Eventlistners
+	. ......
+4 Relearn some important topics of CSS
+5 React js
+	. Work Flow
+	. Lifecycles
+	. Hooks (How they workd also)
+		. UseState
+		. UseEffect
+		. UseCallBack
+		. UseEffectLayOut
+		. UseMemo
+		. UseRef
+		. UseReducer
+		. UseContext
+	. ......
+		
+
